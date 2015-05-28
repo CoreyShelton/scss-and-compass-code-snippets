@@ -1,2 +1,2 @@
-# scss-and-compass-code-snippets
-Useful SCSS/Compass functions and mixins.
+# SCSS/Compass Functions and Mixins
+A collection of useful SCSS/Compass functions and mixins.
